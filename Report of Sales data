@@ -1,0 +1,42 @@
+# Adventure Sales Dashboard – Excel
+
+## Project Overview
+This project focuses on analyzing Adventure sales data using Microsoft Excel. An interactive dashboard is created to track business performance, understand profitability, and identify sales trends through KPIs and charts.
+
+## Objectives
+- Analyze overall business performance.
+- Calculate total cost, revenue, profit, and profit margin.
+- Identify profit trends across different time periods.
+- Understand which periods generate the highest profit.
+
+## Key Performance Indicators (KPIs)
+- **Total Cost:** Overall business expenditure.
+- **Total Revenue:** Total revenue generated from sales.
+- **Total Profit:** Revenue minus total cost.
+- **Profit Margin (%):** Percentage of revenue earned as profit.
+
+## Data Analysis & Visualizations
+The dashboard includes the following charts:
+
+1. **Profit by Year:** Analyzes yearly profitability.
+2. **Profit by Month:** Identifies the best and worst-performing months.
+3. **Profit by Quarter:** Compares profitability across four quarters.
+4. **Profit by Weekday:** Analyzes profit generated on different weekdays.
+
+## Tools & Techniques
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Excel Formulas
+- KPI Cards
+- Charts & Data Visualization
+
+## Key Insights
+The dashboard helps identify:
+- Yearly profit trends.
+- Monthly and quarterly performance.
+- Most profitable weekdays.
+- Overall business profitability.
+
+## Conclusion
+This project provides a clear overview of Adventure sales performance through an interactive Excel dashboard. It helps understand revenue, costs, and profit trends, supporting better business analysis and decision-making.
